@@ -1,4 +1,4 @@
-Project Name: [SmartMoneyTradingStrategy](https://github.com/yuyuCornell/SmartMoneyStrategy.git)
+Project Name: [SmartMoneyStrategy](https://github.com/yuyuCornell/SmartMoneyStrategy.git)
 
 Project type: Data analysis
 
