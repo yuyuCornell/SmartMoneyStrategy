@@ -1,6 +1,9 @@
 # SmartMoneyStrategy
 ORIE 5741 WeTeam21: Yu Zhang and Yijia Gao
 
+## Video Link (Youtube)
+https://youtu.be/BwF-NziWbq8
+
 ## Overview
 This project explores the 13F filings required by SEC after 2013-6.
 
