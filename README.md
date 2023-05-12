@@ -4,6 +4,9 @@ ORIE 5741 WeTeam21: Yu Zhang and Yijia Gao
 ## Video Link (Youtube)
 https://youtu.be/BwF-NziWbq8
 
+## Final Report Link
+https://github.com/yuyuCornell/SmartMoneyStrategy/blob/main/5741_final_report.pdf
+
 ## Overview
 Abstract
 This project focuses on exploring the application of machine learning and reinforcement learning models in developing effective trading strategies using 13F data. The study involves tracking
