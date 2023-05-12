@@ -15,11 +15,11 @@ markets.
 We build this project with feature engineering, Machine learning (Keamns, PCA, Ridge Regression), and TD3 in Reinforcement Learning.
 
 Please view the file in sequence:
-1. Merged 13f_pricedata.ipynb
-2. SummaryStats & Plots
-3. Strategy1_Simple
-4. Strategy2_ML-Final
-5. Strategy3_RL
+1. Data Processing/Merged 13f_pricedata.ipynb
+2. Data Processing/SummaryStats & Plots
+3. Machine learning Algo/Strategy1_Simple
+4. Machine learning Algo/Strategy2_ML-Final
+5. Reinforcement Learning Algo/Strategy3_RL
 
 ## Data and code
 The data is asset of Rebellion Research; Get in touch with me via yz2846@cornell.edu if you have any questions
