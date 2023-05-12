@@ -5,7 +5,7 @@ ORIE 5741 WeTeam21: Yu Zhang and Yijia Gao
 https://youtu.be/BwF-NziWbq8
 
 ## Final Report Link
-https://github.com/yuyuCornell/SmartMoneyStrategy/blob/main/5741_final_report.pdf
+https://github.com/yuyuCornell/SmartMoneyStrategy/blob/main/FinalReport5741.pdf
 
 ## Overview
 Abstract
