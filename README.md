@@ -5,9 +5,12 @@ ORIE 5741 WeTeam21: Yu Zhang and Yijia Gao
 https://youtu.be/BwF-NziWbq8
 
 ## Overview
-This project explores the 13F filings required by SEC after 2013-6.
-
-The 13F data shows us a way to leverage successful fund managers' ideas, but we keep the liquidity better.
+Abstract
+This project focuses on exploring the application of machine learning and reinforcement learning models in developing effective trading strategies using 13F data. The study involves tracking
+the holdings of major fund managers through 13F data and utilizing predictive models to generate insights for trading decisions. By analyzing the data through these models, the project aims
+to provide new insights into the development of successful trading strategies in the financial
+markets.
+Keywords: Trading Strategies, 13F, Machine Learning, Reinforcement Learning
 
 ## Approach
 We build this project with feature engineering, Machine learning (Keamns, PCA, Ridge Regression), and TD3 in Reinforcement Learning.
