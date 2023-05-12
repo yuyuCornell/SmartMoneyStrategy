@@ -20,4 +20,4 @@ Please view the file in sequence:
 5. Strategy3_RL
 
 ## Data
-The data is too large to upload; don't hesitate to get in touch with me via yz2846@cornell.edu if you are interested in the dataset
+The data is asset of Rebellion Research; Get in touch with me via yz2846@cornell.edu if you have any questions
